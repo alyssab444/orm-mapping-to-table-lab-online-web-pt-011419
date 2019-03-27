@@ -48,4 +48,3 @@ def initialize (name, grade, id=nil)
   end
   end 
   
-end
